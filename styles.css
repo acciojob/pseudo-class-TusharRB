@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
 .container::before {
-  content: "Before Element ";
+  content: "Before Element";
   font-weight: bold;
   color:red;
 }
 
 .container::after {
-  content: " After Element";
+  content: "After Element";
   font-style: italic;
   color:red;
 }
